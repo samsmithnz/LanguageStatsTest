@@ -1,6 +1,6 @@
 using System;
 
-namespace LanguageStatsTest.Models
+namespace WebApplication1.Models
 {
     public class ErrorViewModel
     {
